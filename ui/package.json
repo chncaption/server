@@ -10,7 +10,7 @@
     "axios": "^0.21.1",
     "codemirror": "^5.61.1",
     "detect-browser": "^5.2.0",
-    "js-base64": "^3.6.1",
+    "js-base64": "^3.7.5",
     "mobx": "^5.15.6",
     "mobx-react": "^6.3.0",
     "mobx-utils": "^5.6.1",
